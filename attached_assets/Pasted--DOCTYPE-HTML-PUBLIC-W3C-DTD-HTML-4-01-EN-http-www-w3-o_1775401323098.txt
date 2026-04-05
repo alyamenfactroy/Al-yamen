@@ -1,0 +1,2141 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+
+<head>
+	<noscript>
+							<meta http-equiv="refresh" content="1; URL=https://erp.omegasoftbd.com/erp/demo_prod/pages/enable_javascript.html">
+			</noscript>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<meta http-equiv="cache-control" content="max-age=0" />
+	<meta http-equiv="cache-control" content="no-cache" />
+	<meta http-equiv="expires" content="0" />
+	<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+	<meta http-equiv="pragma" content="no-cache" />
+
+	<meta name="keywords" content="Omega ERP v-3.5.0 | Online ERP Software, Best ERP Software in Bangladesh, Cloud ERP in Bangladesh, Small Business ERP, Best ERP Solution in Bangladesh, Accounting Software, Inventory Software, School Management Software, HR Payroll Software, Omega Softwares & Techologies, Accounting Software in Dhaka Bangladesh, Web Based ERP, Online ERP, SAAS Based ERP, Erp Software Solutions Companies, Inventory Accounting software, Payroll Software in Bangladesh, Manufacturing ERP" />
+	<meta name="Description" content="Online ERP Software, Best ERP Software in Bangladesh, Cloud ERP in Bangladesh, Small Business ERP, Best ERP Solution in Bangladesh, Accounting Software, Inventory Software, School Management Software, HR Payroll Software, Omega Softwares & Techologies, Accounting Software in Dhaka Bangladesh, Best ERP Software Solutions Company in Bangladesh and Web based ERP Software in Dhaka Bangladesh. Like Tally Software in Bangladesh, Financing Accounting Software Provider Company in Bangladesh, Business Finance Software Provider Company BD, Best software for Inventory in BD, Cloud ERP, Payroll Software for Small Business in bd, Inventory Accounting Software, ERP Accounting Software Development Companies, Accounting and Inventory Software, Accounting Software Service, ERP for small business, best erp software in Bangladesh, tally accounting software, free inventory accounting software in bd, human resources payroll software, erp software solutions companies in bd, best payroll software, finance software company in bd, manufacturing inventory software, small business erp" />
+	<meta name="keyword" content="ERP Solution, ERP Software, Accounting Software, Inventory Software, HR Payroll Software, Omega ERP, Omega Software">
+	<meta name="author" content="omegesoftbd.com" />
+	<meta name="contact" content="info@omegesoftbd.com, princesecom@gmail.com">
+	<meta name="subject" content="Web Based Erp Software Solutions Bangladesh, Bookkeeping Software, Tally Software, Payroll Software, Finance Software, Accounting System Software, Inventory Software, Inventory Accounting, Software Services, ERP" />
+	<meta name="classification" content="Web Based Erp Software Solutions Bangladesh, ERP, Bookkeeping Software, Tally Software, Payroll Software, Finance Software, Accounting Software, Inventory Software, Inventory Accounting, Software Services" />
+		<title>ABC Company Ltd. |  Omega ERP v-4.2.0 | Online ERP Software in Bangladesh, Best ERP Solution in Bangladesh, Cloud ERP in Bangladesh, Small Business ERP, Accounting Software, Inventory Software, School Management Software, HR Payroll Software</title>
+	<base href="https://erp.omegasoftbd.com/erp/demo_prod/">
+	<link rel="icon" href="https://erp.omegasoftbd.com/erp/demo_prod/media/images/favicon.ico" />
+	<script type='text/javascript'>
+		//var myNewURL = "erp/demo_prod";//the new URL
+		//window.history.pushState("object or string", "Title", "/" + myNewURL );
+
+		var base_url = 'https://erp.omegasoftbd.com/erp/demo_prod/';
+		var is_print_toolbar_shown = false;
+	</script>
+		<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/style_flatlab.css" rel="stylesheet">
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/ddsmoothmenu.css" rel="stylesheet">
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/css/style.css" rel="stylesheet">
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/js/simplemodal/basic.css" rel="stylesheet" />
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/css/style-responsive.css" rel="stylesheet" />
+	<!-- Bootstrap core CSS -->
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/css/bootstrap-reset.css" rel="stylesheet">
+	<!--external css-->
+	<link rel="stylesheet" type="text/css" href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/live-validation.css" />
+	<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/combo_select/css/select2.min.css" rel="stylesheet" />
+
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/jquery-3.5.0.min.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/ddsmoothmenu.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/jacs_compressed_1.0.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/livevalidation_standalone.compressed.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/other.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/print-toolbar.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/lazyload-min.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/jquery.blockUI.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/jquery.mtz.monthpicker.js"></script>
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/combo_select/js/select2.min.js"></script>
+
+	<link rel="stylesheet" href="https://erp.omegasoftbd.com/erp/demo_prod/media/menu/bootstrapmenu.css">
+	<script type="text/javascript" language="javascript" src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/bootstrap-3.3.7.min.js"></script>
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+	<!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+		<style type="text/css">
+		input.jacsHead {
+			width: 13px;
+		}
+
+		a.logo {
+			font-size: 21px;
+			float: left;
+			margin-top: 5px;
+			text-transform: uppercase;
+		}
+	</style>
+
+</head>
+
+<body>
+	
+	<div id="wrapper">
+		<div class="notification_area_top" style="display:none; font-size: 16px;font-weight:bold; background-color: #FFD3CC;color:#E2B016;height:25px;">
+			<marquee behavior="scroll" direction="left" scrollamount="3" onmouseover="javascript:this.setAttribute('scrollamount','0');" onmouseout="javascript:this.setAttribute('scrollamount','3');">
+				<a href="http://localhost/prac/learn/index.php/informations/notice">প্রিয় গ্রাহক, এখন থেকে bKash অনলাইন পোর্টাল ব্যবহার করে আপনার বকেয়া বিল পরিশোধ করতে পারবেন। যাহাতে বিল অটোমেটিক রিসিভ হয়ে যাবে এবং সফটওয়্যার সচল থাকবে। বিস্তারিত জানতে এখানে ক্লিক করুন।</a>
+				<!--	আপনাদের অবগতির জানানো যাচ্ছে যে, সফটওয়্যার রক্ষণাবেক্ষণ এবং সার্ভার ফী সহ যাবতীয় সকল দেনা পরিশোধ করার জন্য অনুরোধ করা যাচ্ছে। যাঁহারা দেনা পরিশোধ করতে ব্যর্থ হবেন তাঁদের সফটওয়্যার আগামী ০৫-০১-২০১৮ তারিখের পর বন্ধ হয়ে যাবে। -- ধন্যবাদান্তে OmegaSoft Headoffice -->
+			</marquee>
+		</div>
+		<div id="global_print_menu" style='display:none'>
+			<div style="width:auto;height:auto;text-align:center;margin:0 auto;">
+				<ul id="float_bar_menu">
+					<li id="printer">
+						<a onclick="PrintPreview();" title="Print Preview" class="btn btn-info btn-sm"><i class="fa fa-external-link"></i> &nbsp;Print Preview </a> &nbsp;
+						<a onclick="PrintDoc();" title="Print" class="btn btn-blue btn-sm"><i class="fa fa-print"></i> &nbsp;Print </a> &nbsp;
+						<a target="_blank" title="Export PDF" class="btn btn-pdf btn-sm" onclick="show_pdf_friendly('PDF_Reports_OmegaERP');return false;"><i class="fa fa-file"></i> &nbsp;Export PDF </a>
+						<a target="_blank" title="Export Excel" class="btn btn-success btn-sm" onclick="export_as_excel('PDF_Reports_OmegaERP');return false;"><i class="fa fa-file"></i> &nbsp;Export EXCEL </a>
+											</li>
+					<li id="execlsave">
+											</li>
+					<li id="fullscreener">
+											</li>
+				</ul>
+				<form action="https://erp.omegasoftbd.com/erp/demo_prod/reports/show_print_friendly.html" id="print_form" target="_blank" method="post" accept-charset="utf-8">
+				<input type="hidden" name="report_data" id="report_data" value="">
+				</form>			</div>
+		</div>
+		<section id="container" class="">
+			<!--header start-->
+			<header class="header white-bg">
+				<div class="header-flex-wrapper">
+					<!-- block 1: toggle -->
+					<div class="header-block block-toggle">
+						<div class="sidebar-toggle-box">
+							<div data-original-title="Toggle Navigation" data-placement="right" class="fa fa-reorder icon-reorder tooltips"></div>
+						</div>
+					</div>
+
+					<!-- block 2: logo -->
+					<div class="header-block block-logo">
+						<a href="https://erp.omegasoftbd.com/erp/demo_prod/" class="logo">
+							<img src="https://erp.omegasoftbd.com/erp/demo_prod//media/images/OmegaERP_Plus_Logo.png" height="46px" border="0" vspace="0px" hspace="2px" />
+							<span></span>
+						</a>
+					</div>
+
+					<!-- block 3: notify row -->
+					<div class="header-block block-menu">
+						<div class="nav notify-row" id="top_menu">
+							<!--  notification start -->
+							<div id="global-ajax-loader" style=" display:none;float: left;height: 15px;padding: 5px 5px 0;width: 50px;"><img src="https://erp.omegasoftbd.com/erp/demo_prod//media/images/ajax-loader-small.gif" width="16px" height="11px" border="0" vspace="0px" hspace="0px" /></div>
+							<!--  notification end -->
+						</div>
+					</div>
+
+					<!-- block 4: client info -->
+					<div class="header-block block-client">
+						<div class="nav client-info">
+							<div class="nav pull-right top-menu">
+	<div class="company_info_block hidden-xs">
+		<div class="company_info_content">
+			<div class="company_text">
+				<div class="company_logo_name">ABC Company Ltd.</div>
+				<div class="user_welcome_info">
+					<i style="float: right;font-size: 11px;text-transform: none;">Welcome <span style="color: red">Admin</span> | Branch : Head Office</i>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="company_info_block_small visible-xs">
+		<div class="company_info_content">
+			<div class="company_text">
+				<div class="company_logo_name">demo_prod</div>
+				<div class="user_welcome_info">
+					<i style="float: right;font-size: 10px;text-transform: none;">Welcome <span style="color: red">Admin</span> <br> Branch : Head Office</i>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>						</div>
+					</div>
+
+					<!-- block 5: client logo -->
+					<div class="header-block block-client company_info_block hidden-xs" style="margin-right: 0px;">
+						<a href="https://erp.omegasoftbd.com/erp/demo_prod/">
+							<img src="https://erp.omegasoftbd.com/erp/demo_prod/./media/images/demo_prod_picture/b276bd714e9c2d6f6d39ba9044e60e96.png" height="46px" border="0" vspace="0px" hspace="0px" />
+						</a>
+					</div>
+				</div>
+			</header>
+			<!--header end-->
+
+			<style>
+			.menunewdesign nav { 
+				background: linear-gradient(135deg, #2a3542 0%, #1a2129 100%) !important;
+				border-bottom: 3px solid #F87A75 !important;
+				box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+				backdrop-filter: blur(10px);
+			}
+			.navbar-nav > li > span, .navbar-nav > li > a {
+				transition: all 0.3s ease;
+				font-weight: 500 !important;
+				letter-spacing: 0.5px;
+			}
+			.navbar-nav > li.active > span, .navbar-nav > li.active > a {
+				background: #F87A75 !important;
+				color: #fff !important;
+				box-shadow: inset 0 -3px 0 rgba(0,0,0,0.2);
+			}
+			.dropdown-menu {
+				border: none !important;
+				box-shadow: 0 10px 30px rgba(0,0,0,0.15) !important;
+				border-radius: 0 0 8px 8px !important;
+				padding: 10px 0 !important;
+				display: none;
+			}
+			.dropdown44:hover > .dropdown-menu { display: block; }
+			.dropdown-menu li.active a {
+				background-color: #fce4e4 !important;
+				color: #F87A75 !important;
+				border-left: 4px solid #F87A75 !important;
+			}
+			.dropdown44 { position: relative !important; }
+			.mega-menu .dropdown-menu { 
+				width: 550px; 
+				padding: 25px !important; 
+				left: 0 !important; 
+				top: 100% !important;
+				border-top: 4px solid #F87A75 !important;
+				border-radius: 0 8px 8px 8px !important;
+				overflow: hidden; /* self-clear floated mega-cols */
+			}
+			/* Nested hover support */
+			.submenu44, .subsubmenu44 { position: relative; }
+			.submenu44:hover > .dropdown-submenu, .subsubmenu44:hover > .dropdown-submenu { display: block; }
+			.dropdown-submenu {
+				display: none;
+				position: absolute;
+				left: 100%;
+				top: 0;
+				background: #fff;
+				box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+				min-width: 200px;
+				padding: 10px 0;
+			}
+			.mega-col { float: left; padding: 0 15px; }
+			.mega-col:not(:last-child) { border-right: 1px solid #eee; }
+			.mega-col h4 { 
+				color: #F87A75; 
+				border-bottom: 2px solid #fce4e4; 
+				padding-bottom: 10px; 
+				margin-top: 0; 
+				font-size: 13px; 
+				text-transform: uppercase;
+				font-weight: 600;
+			}
+			.mega-col ul { list-style: none; padding: 0; margin-top: 15px; }
+			.mega-col ul li { margin-bottom: 8px; position: relative; }
+			.mega-col ul li a { 
+				border-bottom: none !important; 
+				color: #555 !important; 
+				font-size: 12px;
+				display: block;
+				padding: 6px 15px !important;
+				border-radius: 4px;
+				transition: all 0.2s ease;
+			}
+			.mega-col ul li.active a {
+				background: #F87A75 !important;
+				color: #fff !important;
+				font-weight: 600;
+				box-shadow: 0 2px 5px rgba(248,122,117,0.3);
+			}
+			.mega-col ul li.active a::before {
+				content: "\f105";
+				font-family: FontAwesome;
+				margin-right: 8px;
+			}
+			.mega-col ul li a:hover:not(.active) { 
+				color: #F87A75 !important; 
+				background: #fff5f5 !important; 
+				padding-left: 20px !important;
+			}
+			/* High-specificity rule so mega-menu right-align beats left:0 !important */
+			.mega-menu .dropdown-menu.dropdown-menu-right { 
+				left: auto !important; 
+				right: 0 !important; 
+			}
+			@media (max-width: 992px) { 
+				.mega-menu .dropdown-menu { width: 95% !important; left: 2.5% !important; right: auto !important; } 
+				.mega-col { width: 100% !important; border-right: none; margin-bottom: 20px; } 
+			}
+		</style>
+<br /><br /><div class="cent-container menunewdesign" style="margin-top:30px;">
+			<nav class="navbar navbar-default" role="navigation">
+			<div class="row collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav np"><li class="dropdown44"><a href="https://erp.omegasoftbd.com/erp/demo_prod/pages/index.html">Dashboard</a></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Masters<b class="caret"></b></span><ul class="dropdown-menu" style="width:520px"><div class='mega-col' style='width:50%'><h4>Product & Warehouse Setup</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_categories/index.html">Category</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_sub_categories/index.html">Sub Category</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_brand_companies/index.html">Brand or Company</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_units/index.html">Units</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_items/index.html">Product/Items</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_store_warehouses/index.html">Godown</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Party & Sales Setup</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_supplier_groups/index.html">Party Group</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_supplier_group_employee_changes/index.html">Party Group Emp Changes</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_suppliers/index.html">Party Information</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Production & System Setup</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_production_units/index.html">Production Unit</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/qc_settings/view.html">QC Settings</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_item_opening_stocks/add.html">Items Opening Stock</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_opening_balances/add.html">Opening Balance</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Purchase<b class="caret"></b></span><ul class="dropdown-menu" style="width:260px"><div class='mega-col' style='width:100%'><h4>Purchase</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_orders/purchase_index.html">Purchase Order</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_purchases/get_order_no.html">Receive Order</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_purchases/add.html">New Purchase</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_purchases/index.html">Purchase List</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_returns/purchase_return_index.html">Purchase Return</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Sales<b class="caret"></b></span><ul class="dropdown-menu" style="width:260px"><div class='mega-col' style='width:100%'><h4>Sales</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_orders/sales_index.html">Sales Order</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_order_sales/get_order_no.html">Sales Order Confirm</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_sales/add.html">New Sales</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_sales/index.html">Sales List</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_returns/sales_return_index.html">Sales Return</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Production<b class="caret"></b></span><ul class="dropdown-menu" style="width:260px"><div class='mega-col' style='width:100%'><h4>Production</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_item_transfers/index.html">Product Transfer</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_direct_productions/index.html">Direct Production</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Inventory<b class="caret"></b></span><ul class="dropdown-menu" style="width:520px"><div class='mega-col' style='width:50%'><h4>Damage Management</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_damages/sales_damage_add.html">New Sales Damage</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_damages/sales_damage_index.html">Sales Damage List</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_damages/purchase_damage_add.html">New Purchase Damage</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_damages/purchase_damage_index.html">Purchase Damage List</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Stock Movement</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_item_transfers/index.html">Item Transfer</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Damage Reports</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_register_reports/sales_damage_report_index.html">Sales Damage Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_register_reports/purchase_damage_report_index.html">Purchase Damage Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_register_reports/partywise_damage_report_index.html">Partywise Damage Report</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">S&M Cost<b class="caret"></b></span><ul class="dropdown-menu" style="width:260px"><div class='mega-col' style='width:100%'><h4>Vehicle Management</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/vehicles/index.html">Vehicles List</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/vehicle_drivers/index.html">Drivers Info</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/vehicle_direct_expenses/index.html">Direct Expenses</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/vehicle_reports/vehicle_register_report_index.html">Vehicles Register</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/vehicle_reports/direct_expense_report_index.html">Direct Expense Report</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">HRM<b class="caret"></b></span><ul class="dropdown-menu" style="width:520px"><div class='mega-col' style='width:50%'><h4>Employee Setup</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_departments/index.html">Departments</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_designations/index.html">Designations</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employees/index.html">Employees</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Leave Management</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_leave_allocations/index.html">Leave Allocations</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_leave_applications/index.html">Leave Applications</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_leave_applications/approve.html">Leave Approval</a></li></ul></div><div class='mega-col' style='width:50%'><h4>HR Actions</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/emp_promotion_demotions/index.html">Promotion / Demotion</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Holiday Setup</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/com_holidays/index.html">Holiday Setup</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Payroll<b class="caret"></b></span><ul class="dropdown-menu" style="width:520px"><div class='mega-col' style='width:50%'><h4>Attendance</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_attendances/index.html">Daily Attendance</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Salary Management</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_salary_processes/index.html">Salary Process</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_salary_processes/salary_approved.html">Approved Salary</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Employee Finance</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_salary_advances/index.html">Advance Salary</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_staff_loans/index.html">Staff Loan</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_staff_loan_collections/index.html">Staff Loan Settlement</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Accounting<b class="caret"></b></span><ul class="dropdown-menu" style="width:520px"><div class='mega-col' style='width:50%'><h4>Voucher Entry</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_vouchers/index.html">Voucher List</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_vouchers/add_payment_voucher.html">Payment Voucher</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_vouchers/add_receipt_voucher.html">Receipt Voucher</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_vouchers/add_journal_voucher.html">Journal Voucher</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_vouchers/add_contra_voucher.html">Contra Voucher</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_vouchers/add_balance_transfer.html">Balance Transfer</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Ledger Management</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_ledgers/index.html">Ledger Accounts</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Reports<b class="caret"></b></span><ul class="dropdown-menu" style="width:520px"><div class='mega-col' style='width:50%'><h4>Inventory & Production Reports</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/stock_balance_index.html">Stock Balance</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/stock_balance_with_price_index.html">Stock Balance With Price</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/product_history_index.html">Product History</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/item_transfer_report_index.html">Item Transfer Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_production_reports/bom_batch_production_index.html">Production Report</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Sales & Purchase Reports</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/sales_report_index.html">Sales Register</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/item_wise_sales_report_index.html">Itemwise Sales</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_register_reports/sales_return_report_index.html">Sales Return Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/purchase_report_index.html">Purchase Register</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/partywise_purchase_report_index.html">Partywise Purchase</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_register_reports/purchase_return_report_index.html">Purchase Return Report</a></li></ul></div><div class='mega-col' style='width:50%'><h4>Financial & Party Reports</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_ledger_reports/ledger_report.html">Ledger Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_cash_books/cash_book_filter.html">Cash Book</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_bank_books/bank_book_filter.html">Bank Book</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_cash_bank_books/index.html">Cash & Bank Book</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_trial_balance_reports/trial_balance.html">Trial Balance</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_profit_loss_statements/profit_loss_statement_index.html">Profit Loss</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/acc_balance_sheets/balance_sheet_report_filter.html">Balance Sheet</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/ais_reports/party_ledger_index.html">Party Ledger</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/party_register_index.html">Party Register</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/ais_reports/accounts_payable_receivable_index.html">Payable / Receivable</a></li></ul></div><div class='mega-col' style='width:50%'><h4>HR & Other Reports</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_attendance_reports/daily_attendance_report_index.html">Attendance Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/employee_salary_processes/salary_report_index.html">Salary Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_leave_reports/index.html">Leave Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/hrm_reports/promotion_demotion_report_index.html">Promotion Demotion Report</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/gross_profit_report_index.html">Gross Profit</a></li></ul></div></ul></li><li class="dropdown44 mega-menu"><span class="dropdown-toggle" data-toggle="dropdown">Administration<b class="caret"></b></span><ul class="dropdown-menu" style="width:260px"><div class='mega-col' style='width:100%'><h4>Administration</h4><ul><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/config_generals/view.html">General Settings</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/users/index.html">Manage Users</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/users/change_password.html">Change Password</a></li><li><a href="https://erp.omegasoftbd.com/erp/demo_prod/auths/logout.html">Logout</a></li></ul></div></ul></li></ul></div></nav></div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+
+    function adjustMegaMenuAlignment(dropdown) {
+        var menu = dropdown.querySelector('.dropdown-menu');
+        if (!menu) return;
+
+        // Reset alignment so we always measure from the natural left position
+        menu.classList.remove('dropdown-menu-right');
+
+        // Use rAF to read position AFTER the browser has painted the visible menu
+        requestAnimationFrame(function () {
+            var rect = menu.getBoundingClientRect();
+            var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
+
+            if (rect.right > viewportWidth) {
+                // Overflows right edge → anchor from the right side of parent
+                menu.classList.add('dropdown-menu-right');
+
+                // Safety check: if it now overflows the left edge, revert
+                var newRect = menu.getBoundingClientRect();
+                if (newRect.left < 0) {
+                    menu.classList.remove('dropdown-menu-right');
+                }
+            }
+        });
+    }
+
+    document.querySelectorAll('.dropdown44.mega-menu').forEach(function (dropdown) {
+        dropdown.addEventListener('mouseenter', function () {
+            adjustMegaMenuAlignment(this);
+        });
+    });
+
+    // Also re-check on window resize
+    window.addEventListener('resize', function () {
+        document.querySelectorAll('.dropdown44.mega-menu:hover').forEach(function (dropdown) {
+            adjustMegaMenuAlignment(dropdown);
+        });
+    });
+
+});
+</script>
+
+			<!--sidebar start-->
+			<!--   
+      <aside>
+          <div id="sidebar"  class="nav-collapse ">	 
+          
+			   
+					                     
+			<div style="text-align: left;padding-left: 17px;color: gainsboro;"><i class="fa fa-clock-o"></i> Sun, 05 Apr, 2026</div>  
+			<br/>            
+			<form accept-charset="utf-8" method="post" action="https://erp.omegasoftbd.com/erp/demo_prod/inv_reports/invoice_search"> 
+			  <div style="text-align: right; padding-right: 17px; padding-top:3px; padding-bottom:20px; color: gainsboro;">
+				  <input type="text" style="border:1px solid; padding: 2px; width:150px;" title="Enter Invoice Code " class="search_input blur" name="txt_invoice_no" autocomplete="off">
+			  </div> 		
+			</form>	            
+          </div>
+      </aside>
+  -->
+
+			<!--sidebar end-->
+			<!--main content start-->
+			<section id="main-content_OFF">
+				<section class="wrapper">
+					<div class="row">
+						<div id="breadcam">
+							<div id="locator">
+								<ul>
+									<li><b>Location: </b></li>
+									<li class="breadcam_arrow"> <a href="https://erp.omegasoftbd.com/erp/demo_prod/">&Omega; Dashboard</a></li>
+									<li class="breadcam_arrow"> </li>
+									<!--
+							<li class='breadcam_arrow'><b style='color:green;'>Access Granted</b></li>
+							-->
+								</ul>
+							</div>
+							<div id="tabber">
+
+																<!--	<a href="" target="_blank">Ticketing System</a> -->
+
+								<h3>General Business</h3>
+							</div>
+						</div>
+					</div>
+					<div class="panel panel-primary">
+						<div class="panel-body">
+														<!-- Content -->
+							<div class="master-body">
+
+								<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    window.APP_URLS = {
+        monthlyPurchase: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_monthly_purchase_trend.html",
+        categoryPurchase: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_category_wise_purchase.html",
+        topSuppliers: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_top_suppliers.html",
+        purchaseSummary: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_dashboard_purchases_summary.html",
+        paymentStatus: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_purchases_payment_status_summary.html",
+        recentPurchases: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_recent_purchases.html"
+    };
+    window.APP_SALES_URLS = {
+        salesSummary: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_dashboard_sales_summary.html",
+        topSellingSummary: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_dashboard_top_selling_product.html",
+        monthlySalesTrend: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_monthly_sales_trend.html",
+        productWiseSell: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_product_wise_sell.html",
+        salespersonPerformance: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_get_sales_person_performance.html",
+        paymentMethod: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_payment_method.html",
+        topTenProducts: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_get_top_ten_products.html"
+    };
+    window.APP_PRODUCTIONS_URLS = {
+        productionsSummary: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_dashboard_productions_summary.html",
+        rawvsFinishItemsUtilization: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_raw_vs_finish_items_utilization.html",
+        topUsedRawMaterials: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_top_used_raw_materials.html",
+        productionCostTrend: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_product_cost_trend.html",
+        costPercentageBreakdown: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_cost_percentage_breakdown.html",
+        productionEfficiency: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_production_efficiency.html",
+        machineUtilization: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_machine_utilization.html",
+        productionWastageAnalysis: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_production_wastage_analysis.html"
+    };
+    window.APP_HRM_URLS = {
+        productionsSummary: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_dashboard_productions_summary.html",
+        departmentWiseEmployeeCount: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_department_wise_employee_count.html",
+        monthlyAttendanceTrend: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_monthly_attendance_trend.html",
+        genderRatio: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_gender_ratio.html",
+        leaveTypeBreakdown: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_for_get_leave_type_breakdown.html"
+    };
+    window.APP_OVERVIEW_URLS = {
+        overViewKpiCards: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_overview_kpi_cards.html",
+        dailyMonthlyViewKpiCards: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_daily_monthly_kpi_cards.html",
+        salesPurchasesProductionChart: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_sales_purchases_production_chart.html",
+        salesOrderStatusChart: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_sales_order_chart.html",
+        productionStatusChart: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_prodcution_status_chart.html",
+        employeeAttendanceChart: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_employee_attendance_chart.html",
+        monthlyCostBreakDownChart: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_monthly_cost_break_down_chart.html",
+        costPerUnitTrendChart: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_cost_per_unit_trend_chart.html",
+        alertsAndInsights: "https://erp.omegasoftbd.com/erp/demo_prod/dashboards/ajax_alerts_and_insights.html"
+    };
+</script>
+<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/dashboard/tabs.js"></script>
+<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/dashboard/purchases.js"></script>
+<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/dashboard/purchases.css" rel="stylesheet" />
+<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/dashboard/overview.js"></script>
+<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/dashboard/overview.css" rel="stylesheet" />
+<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/dashboard/sales.js"></script>
+<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/dashboard/sales.css" rel="stylesheet" />
+<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/dashboard/hrm.js"></script>
+<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/dashboard/hrm.css" rel="stylesheet" />
+<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/dashboard/productions.js"></script>
+<link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/dashboard/productions.css" rel="stylesheet" />
+<style>
+h2 {
+	color: #839EB7;
+	font-size: 18px;
+	padding: 10px;
+	}
+              .chart-filter {
+              padding: 6px 10px;
+              border: 1px solid #ddd;
+              border-radius: 8px;
+              font-size: 13px;
+              background: #f8fafc;
+              color: #333;
+              outline: none;
+              cursor: pointer;
+            }
+            .chart-filter:focus {
+              border-color: #0b74ff;
+            }
+
+            table {
+                width: 100%;
+                font-size: 13px;
+                margin-top: 10px;
+                background: #fff;
+                border-radius: 8px;
+                overflow: hidden;
+                box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+                }
+
+                th, td {
+                padding: 10px 12px;
+                text-align: left;
+                border-bottom: 1px solid #eee;
+                }
+
+                th {
+                color: #555;
+                background: #f9fafb;
+                font-weight: 600;
+                }
+
+                tbody tr:nth-child(even) {
+                background: #f8f9fa;
+                }
+
+                tbody tr:hover {
+                background: #e6f0ff;
+                transition: 0.3s;
+                }
+
+</style>
+<script type="text/javascript">
+	//var site_name = "demo_prod"; 
+	//var chk_item_json = localStorage.getItem(site_name + '_items');	
+	//var chk_party_json = localStorage.getItem(site_name + '_party');
+	//console.log(software_type);	 
+	var is_barcode_used = 0; 
+	//if(is_barcode_used == 0) {  // Save to local Storage				
+	//console.log(software_type);
+	
+	var site_name = "demo_prod"; 
+		const ajaxCallForItems = async () => {
+			try {
+				const response = await $.getJSON("https://erp.omegasoftbd.com/erp/demo_prod/inv_items/ajax_for_get_item_sync_info.html");
+				localStorage.setItem(site_name + '_items', JSON.stringify(response.item_json));
+				
+				console.log("Item Sync to Localstorage complete!");
+			} catch (error) {
+				console.error("Error fetching ItemList:", error);
+			}
+		};
+
+		// Run the function once after 1 second = 1000
+		setTimeout(ajaxCallForItems, 100);
+				
+	
+		const ajaxCallForParty = async () => {
+			try {
+				const response = await $.getJSON("https://erp.omegasoftbd.com/erp/demo_prod/inv_suppliers/ajax_for_get_party_sync_info.html");
+				localStorage.setItem(site_name + '_party', JSON.stringify(response.party_json));
+				
+				console.log("Party Sync to Localstorage complete!");
+			} catch (error) {
+				console.error("Error fetching PartyList:", error);
+			}
+		};
+
+		// Run the function once after 3 second = 3000
+		setTimeout(ajaxCallForParty, 300);
+					  
+	 
+			//var ajax_call_for_party = function() {		  
+				//var party_info = $.get("https://erp.omegasoftbd.com/erp/demo_prod/inv_suppliers/ajax_for_get_party_sync_info.html",
+				//function(party_info)
+					//{  
+						//localStorage.setItem(site_name + '_party', JSON.stringify(party_info.party_json));
+					//}, "json");         
+			//};
+			 
+			//var request_time = 1000 * 2; // Ajax call After 2 Seconds ONE TIME
+			//setTimeout(ajax_call_for_party, request_time);						      
+
+ 
+const DB_VERSION = 1;
+const DB_NAME = site_name + "_DB";
+	// Open IndexedDB
+function openDatabase() {
+    return new Promise((resolve, reject) => {
+
+        let request = indexedDB.open(DB_NAME, DB_VERSION);
+
+        request.onupgradeneeded = function (event) {
+            let db = event.target.result;
+            let oldVersion = event.oldVersion;
+
+            console.log("Upgrading IndexedDB:", oldVersion, "→", DB_VERSION);
+
+            /* ---------- PARTY STORE ---------- */
+            if (!db.objectStoreNames.contains("party")) {
+                let partyStore = db.createObjectStore("party", { keyPath: "id" });
+                partyStore.createIndex("text_idx", "text", { unique: false });
+            } else {
+                let partyStore = event.target.transaction.objectStore("party");
+
+                if (!partyStore.indexNames.contains("text_idx")) {
+                    partyStore.createIndex("text_idx", "text", { unique: false });
+                }
+            }
+
+            /* ---------- ITEMS STORE ---------- */
+            if (!db.objectStoreNames.contains("items")) {
+                let itemStore = db.createObjectStore("items", { keyPath: "id" });
+                itemStore.createIndex("name_idx", "name", { unique: false });
+                itemStore.createIndex("code_idx", "code", { unique: false });
+            } else {
+                let itemStore = event.target.transaction.objectStore("items");
+
+                if (!itemStore.indexNames.contains("name_idx")) {
+                    itemStore.createIndex("name_idx", "name", { unique: false });
+                    itemStore.createIndex("code_idx", "code", { unique: false });
+                }
+            }
+
+            /* ---------- META STORE (SYNC INFO) ---------- */
+            if (!db.objectStoreNames.contains("meta")) {
+                db.createObjectStore("meta", { keyPath: "key" });
+            }
+        };
+
+        request.onsuccess = e => resolve(e.target.result);
+        request.onerror = e => reject("DB error: " + e.target.error);
+    });
+}
+
+
+async function syncPartyToIndexedDB() {
+    try {
+        let response = await fetch(
+            "https://erp.omegasoftbd.com/erp/demo_prod/inv_suppliers/ajax_for_get_party_sync_to_IndexDB.html"
+        );
+
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+
+        let partyList = await response.json();
+
+        let db = await openDatabase();
+        let tx = db.transaction("party", "readwrite");
+        let store = tx.objectStore("party");
+
+        /* ---------- CLEAR OLD DATA ---------- */
+        await new Promise((resolve, reject) => {
+            let clearReq = store.clear();
+            clearReq.onsuccess = resolve;
+            clearReq.onerror = reject;
+        });
+
+        console.log("Party IndexedDB cleared");
+
+        /* ---------- INSERT NEW DATA ---------- */
+        partyList.forEach(party => {
+            store.put({
+                id: party.id,
+                text: party.text
+            });
+        });
+
+        tx.oncomplete = () => console.log("Party Sync complete (DB v1)");
+        tx.onerror = e => console.error("Party Sync failed:", e.target.error);
+
+    } catch (error) {
+        console.error("Party Sync error:", error);
+    }
+}
+
+
+	async function syncItemToIndexedDB() {
+		try {
+			// Fetch data from server
+			let response = await fetch("https://erp.omegasoftbd.com/erp/demo_prod/inv_items/ajax_for_get_item_sync_to_IndexDB.html");
+			if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+
+			let item_data = await response.json();
+			//console.log("Fetched item_data:", item_data);
+
+			// Ensure we have a valid array
+			if (!Array.isArray(item_data)) {
+				throw new Error("Invalid response: Expected array of items from server");
+			}
+
+			// Open IndexedDB
+			let db = await openDatabase();
+			let transaction = db.transaction("items", "readwrite");
+			let store = transaction.objectStore("items");
+
+			// Clear old data before inserting
+			let clearRequest = store.clear();
+
+			clearRequest.onsuccess = () => {
+				console.log("Existing Items data is cleared.");
+
+				// Insert each item into IndexedDB
+				item_data.forEach(item => {
+					try {
+						let request = store.put(item);
+						request.onerror = (event) =>
+							console.error("IndexedDB Insert Error:", event.target.error);
+					} catch (err) {
+						console.error("Error inserting item:", err, item);
+					}
+				});
+			};
+
+			clearRequest.onerror = (event) => console.error("Error clearing Items IndexedDB:", event.target.error);
+
+			transaction.oncomplete = () => console.log("Items Sync complete!");
+			transaction.onerror = (event) => console.error("Transaction failed:", event.target.error);
+
+		} catch (error) {
+			console.error("Item Sync failed:", error);
+		}
+	}
+
+
+	syncItemToIndexedDB();
+	//syncPartyToIndexedDB();
+		
+	var request_time = 1000 * 1; // Ajax call After 1 Seconds ONE TIME
+	setTimeout(syncPartyToIndexedDB, request_time);		
+			
+	//alert(party_info); 	
+</script>
+  <style>
+:root {
+  --accent: #0b74ff;
+  --muted: #6b7280;
+  --bg: #ffffff;
+  --card: #f8fafc;
+  --radius: 12px;
+  --shadow: 0 6px 18px rgba(9,30,66,0.08);
+  --tab-border: rgba(15,23,42,0.15); /* light border */
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.tabs-wrap {
+  width: 100%;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  background: linear-gradient(180deg, rgba(255,255,255,0.95), rgba(250,250,250,0.95));
+  overflow: hidden;
+  border: 1px solid rgba(15,23,42,0.05);
+}
+
+.tabs-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 16px 20px;
+  border-bottom: 1px solid rgba(15,23,42,0.04);
+}
+
+.tabs-title {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex: 1;
+}
+
+.title-text { font-size: 15px; font-weight: 600; }
+.subtitle { font-size: 12px; color: var(--muted); }
+.meta { font-size: 12px; color: var(--muted); }
+
+.tablist {
+  display: flex;
+  gap: 6px;
+  padding: 12px 16px;
+  align-items: center;
+  background: transparent;
+  flex-wrap: wrap;
+  position: relative;
+}
+
+.tab {
+  --padx: 14px;
+  padding: 8px var(--padx);
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid var(--tab-border); /* light border */
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--muted);
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+  transition: all 220ms cubic-bezier(.2,.9,.2,1);
+  position: relative;
+}
+
+.tab:hover {
+  color: var(--accent);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(11,116,255,0.05);
+  border-color: rgba(11,116,255,0.2); /* slightly stronger on hover */
+}
+
+.tab[aria-selected="true"] {
+  color: #0b2a66;
+  background: linear-gradient(90deg, rgba(11,116,255,0.06), rgba(124,58,237,0.03));
+  border-color: rgba(11,116,255,0.25); /* highlight border when active */
+}
+
+.indicator {
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), #7c3aed);
+  border-radius: 3px;
+  width: 0;
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  transition: all 300ms cubic-bezier(.2,.9,.2,1);
+}
+
+.tab-panels {
+  padding: 2px;
+  background: var(--card);
+}
+
+.dt-panel {
+  display: none;
+  animation: fadeIn 250ms ease;
+}
+
+.dt-panel[aria-hidden="false"] { display: block; }
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 640px) {
+  .tabs-header { padding: 12px; }
+  .tablist { padding: 10px; }
+  .tab { padding: 6px 10px; font-size: 12px; }
+  .tab-panels { padding: 16px; }
+}
+
+.card {
+  background: white;
+  padding: 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(15,23,42,0.04);
+}
+/* Selected value */
+.select2-container--default .select2-selection--single {
+    background-color: transparent !important;
+    border: 1px solid #667fa0 !important;
+    color: #667fa0 !important;
+    height: 38px;
+}
+
+/* Selected text */
+.select2-container--default 
+.select2-selection--single 
+.select2-selection__rendered {
+    color: #667fa0 !important;
+    line-height: 38px;
+}
+
+/* Dropdown arrow */
+.select2-container--default 
+.select2-selection--single 
+.select2-selection__arrow b {
+    border-color: #667fa0 transparent transparent transparent !important;
+}
+
+/* Dropdown list */
+.select2-dropdown {
+    
+    border: 1px solid #667fa0 !important;
+}
+
+/* Dropdown options */
+.select2-results__option {
+    color: #667fa0 !important;
+}
+
+/* Hover / selected option */
+.select2-results__option--highlighted {
+    
+    color: #e5e7eb !important;
+}
+
+</style>
+
+     <link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/assets/jquery-easy-pie-chart/jquery.easy-pie-chart.css" rel="stylesheet" type="text/css" media="screen"/>
+    <div class="tabs-wrap" role="application">
+        <div class="tablist" role="tablist" aria-label="Business tabs" id="tabList">
+        <button class="tab" role="tab" aria-selected="true" aria-controls="panel-home" id="tab-home">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M6 2h12l1 6H5L6 2zM5 8h14v12H5V8z"/>
+            </svg>
+            Home
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="panel-overview" id="tab-overview">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M6 2h12l1 6H5L6 2zM5 8h14v12H5V8z"/>
+            </svg>
+            Overview
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="panel-purchases" id="tab-purchases">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M6 2h12l1 6H5L6 2zM5 8h14v12H5V8z"/>
+            </svg>
+            Purchases
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="panel-sales" id="tab-sales">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M5 12h14M5 6h14M5 18h14"/>
+            </svg>
+            Sales
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="panel-productions" id="tab-productions">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M12 2v20M2 12h20"/>
+            </svg>
+            Productions
+        </button>
+        <button class="tab" role="tab" aria-selected="false" aria-controls="panel-hrm" id="tab-hrm">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4z"/>
+            <path d="M6 20v-2a4 4 0 0 1 8 0v2"/>
+            </svg>
+            HRM
+        </button>
+        <div class="indicator" id="indicator" aria-hidden="true"></div>
+        </div>
+
+        <div class="tab-panels">
+          <section id="panel-home" class="dt-panel" role="tabpanel" aria-labelledby="tab-home" aria-hidden="false">
+            
+              
+<!--state overview start-->
+<div class="row state-overview">
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol terques">
+                <h3 style="color: #fff;">Quick Entry</h3>
+            </div>
+            <div class="value" style="text-align: left; padding-left: 15px; line-height: 18px; padding-top: 3px;font-size: 11px;font-weight: normal;">
+                                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_sales/add" target="_blank">New Sales Invoice</a></li>
+                                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_purchases/add" target="_blank">New Purchase Invoice</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_suppliers/add" target="_blank">Add New Party</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_items/add" target="_blank">Add New Product</a></li> 
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol red">
+                <h3 style="color: #fff;">Quick Report</h3>
+            </div>
+            <div class="value" style="text-align: left; padding-left: 15px; line-height: 18px; padding-top: 3px;font-size: 11px;font-weight: normal;">
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_reports/sales_report_index" target="_blank">Sales Register</a></li>
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_reports/day_book_report_index" target="_blank">Day Book Report</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_reports/stock_balance_index" target="_blank">Stock Balance Report</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//inv_reports/warning_report_index" target="_blank">Item Warning Report</a></li> 
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol yellow">
+                <h3 style="color: #fff;">Quick Entry</h3>
+            </div>
+            <div class="value" style="text-align: left; padding-left: 15px; line-height: 18px; padding-top: 3px;font-size: 11px;font-weight: normal;">
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_vouchers/add_payment_voucher" target="_blank">Payment Voucher</a></li>
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_vouchers/add_receipt_voucher" target="_blank">Receipt Voucher</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_vouchers/add_journal_voucher" target="_blank">Journal Voucher</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_ledgers/add" target="_blank">Add Ledger Accounts</a></li> 
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol blue">
+                <h3 style="color: #fff;">Quick Report</h3>
+            </div>
+            <div class="value" style="text-align: left; padding-left: 15px; line-height: 18px; padding-top: 3px;font-size: 11px;font-weight: normal;">
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_cash_books/cash_book_filter" target="_blank">Cash Book</a></li>
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//ais_reports/party_ledger_index" target="_blank">Party Ledger</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_daily_transactions/daily_transaction_filter" target="_blank">Daily Transaction</a></li> 
+                <li><a href="https://erp.omegasoftbd.com/erp/demo_prod//acc_receipt_payment_reports/receipt_payment_report" target="_blank">Receipt Payment</a></li> 
+            </div>
+        </section>
+    </div>
+</div>
+<!--state overview end-->
+
+<!--state overview start-->
+<div class="row state-overview">
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol terques">
+                <i class="fa fa-money"></i>
+            </div>
+            <div class="value">
+                <h2>
+                    -3,499,665                    </h2>
+                <p style="font-size: 12px;">Cash in Hand</p>
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol red">
+                <i class="fa fa-bank"></i>
+            </div>
+            <div class="value"> 
+                <h2>
+                    0                    </h2> 
+                <p style="font-size: 12px;">Bank Balance</p>
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol yellow">
+                <i class="fa fa-indent"></i>
+            </div>
+            <div class="value"> 
+                <h2>0</h2>
+                <p style="font-size: 12px;">Todays Receipt</p>
+            </div>
+        </section>
+    </div>
+    <div class="col-lg-3 col-sm-6">
+        <section class="panel2">
+            <div class="symbol blue">
+                <i class="fa fa-outdent"></i>
+            </div>
+            <div class="value">
+                <h2>0</h2>
+                <p style="font-size: 12px;">Todays Payment</p>
+            </div>
+        </section>
+    </div>
+</div>
+<!--state overview end-->
+
+<div class="row">
+    <div class="col-lg-8">
+        <!--custom chart start-->
+        <div class="border-head">
+            <h3>Earning Graph</h3>
+        </div>
+        <div class="custom-bar-chart">
+            <div class="bar">
+                <div class="title">JAN</div>
+                <div class="value tooltips" data-original-title="80%" data-toggle="tooltip" data-placement="top">80%</div>
+            </div>
+            <div class="bar doted">
+                <div class="title">FEB</div>
+                <div class="value tooltips" data-original-title="50%" data-toggle="tooltip" data-placement="top">50%</div>
+            </div>
+            <div class="bar ">
+                <div class="title">MAR</div>
+                <div class="value tooltips" data-original-title="40%" data-toggle="tooltip" data-placement="top">40%</div>
+            </div>
+            <div class="bar doted">
+                <div class="title">APR</div>
+                <div class="value tooltips" data-original-title="55%" data-toggle="tooltip" data-placement="top">55%</div>
+            </div>
+            <div class="bar">
+                <div class="title">MAY</div>
+                <div class="value tooltips" data-original-title="20%" data-toggle="tooltip" data-placement="top">20%</div>
+            </div>
+            <div class="bar doted">
+                <div class="title">JUN</div>
+                <div class="value tooltips" data-original-title="39%" data-toggle="tooltip" data-placement="top">39%</div>
+            </div>
+            <div class="bar">
+                <div class="title">JUL</div>
+                <div class="value tooltips" data-original-title="75%" data-toggle="tooltip" data-placement="top">75%</div>
+            </div>
+            <div class="bar doted">
+                <div class="title">AUG</div>
+                <div class="value tooltips" data-original-title="45%" data-toggle="tooltip" data-placement="top">45%</div>
+            </div>
+            <div class="bar ">
+                <div class="title">SEP</div>
+                <div class="value tooltips" data-original-title="50%" data-toggle="tooltip" data-placement="top">50%</div>
+            </div>
+            <div class="bar doted">
+                <div class="title">OCT</div>
+                <div class="value tooltips" data-original-title="42%" data-toggle="tooltip" data-placement="top">42%</div>
+            </div>
+            <div class="bar ">
+                <div class="title">NOV</div>
+                <div class="value tooltips" data-original-title="60%" data-toggle="tooltip" data-placement="top">60%</div>
+            </div>
+            <div class="bar doted">
+                <div class="title">DEC</div>
+                <div class="value tooltips" data-original-title="90%" data-toggle="tooltip" data-placement="top">90%</div>
+            </div>
+        </div>
+        <!--custom chart end-->
+    </div>
+    <div class="col-lg-4">
+        <!--new earning start-->
+        <div class="panel terques-chart">
+            <div class="panel-body2 chart-texture">
+                <div class="chart">
+                    <div class="heading">
+                        <span>Friday</span>
+                        <strong>$ 57,00 | 15%</strong>
+                    </div>
+                    <div class="sparkline" data-type="line" data-resize="true" data-height="75" data-width="90%" data-line-width="1" data-line-color="#fff" data-spot-color="#fff" data-fill-color="" data-highlight-line-color="#fff" data-spot-radius="4" data-data="[200,135,667,333,526,996,564,123,890,564,455]"></div>
+                </div>
+            </div>
+            <div class="chart-tittle">
+                <span class="title">New Earning</span>
+                <span class="value">
+                    <a href="#" class="active">Market</a>
+                    |
+                    <a href="#">Referal</a>
+                    |
+                    <a href="#">Online</a>
+                </span>
+            </div>
+        </div>
+        <!--new earning end-->
+
+        <!--total earning start-->
+        <div class="panel green-chart">
+            <div class="panel-body2">
+                <div class="chart">
+                    <div class="heading">
+                        <span>June</span>
+                        <strong>23 Days | 65%</strong>
+                    </div>
+                    <div id="barchart"></div>
+                </div>
+            </div>
+            <div class="chart-tittle">
+                <span class="title">Total Earning</span>
+                <span class="value">$, 76,54,678</span>
+            </div>
+        </div>
+        <!--total earning end-->
+    </div>
+</div>  
+        </section>
+        
+        <section id="panel-purchases" class="dt-panel" role="tabpanel" aria-labelledby="tab-purchases" aria-hidden="true">
+            
+            <h2 style="margin-bottom:20px;">📦 Purchases Dashboard</h2>
+
+            <div class="cards">
+                <div class="purchases card">
+                    <div class="purchases card-header">
+                    <div class="icon">💰</div>
+                    <div class="label">Total Purchase</div>
+                    </div>
+                    <div class="value" id="totalPurchase">৳ 0</div>
+                </div>
+
+                <div class="purchases card">
+                    <div class="purchases card-header">
+                    <div class="icon">🧾</div>
+                    <div class="label">Total Orders</div>
+                    </div>
+                    <div class="value" id="totalOrders">0</div>
+                </div>
+
+                <div class="purchases card">
+                    <div class="purchases card-header">
+                    <div class="icon">⏳</div>
+                    <div class="label">Pending Bills</div>
+                    </div>
+                    <div class="value" id="pendingBills">৳ 0</div>
+                </div>
+
+                <div class="purchases card">
+                    <div class="purchases card-header">
+                    <div class="icon">🏢</div>
+                    <div class="label">Active Suppliers</div>
+                    </div>
+                    <div class="value" id="supplierCount">0</div>
+                </div>
+            </div>
+
+            <div class="charts">
+                <div>
+                <!-- Monthly Purchase Trend -->
+                <div class="chart-box" style="margin-bottom:15px;">
+                    <div class="chart-header">
+                    <h3 style="color:#667fa0;">Monthly Purchase Trend</h3>
+                    <select id="supplierFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+                    <option value="all">All Suppliers</option>
+                                          <option value="1">1001 - Cash Customer</option>
+                                          <option value="4">1008 - Md Mamun</option>
+                                          <option value="5">1009 - Md Halim</option>
+                                      </select>
+                    </div>
+                    <canvas id="monthlyChart"></canvas>
+                </div>
+                <!-- Payment Status -->
+                <div class="chart-box">
+                    <h3 style="color:#667fa0;">Payment Status</h3>
+                    <canvas id="paymentChart"></canvas>
+                </div>
+
+                </div>
+
+                <div>
+                <!-- Category-wise Purchase -->
+                <div class="chart-box" style="margin-bottom:15px;">
+                    <div class="chart-header">
+                      <h3 style="color:#667fa0;">Category Wise Purchase</h3>
+                      <select id="categoryFilter" style="color:#667fa0; border:1px solid #667fa0;">
+                        <option value="all">All Categories</option>
+                                                    <option value="9">Agro Salted</option>
+                                                    <option value="15">Bakharkhani</option>
+                                                    <option value="1">Biscuts</option>
+                                                    <option value="7">Bread</option>
+                                                    <option value="8">Cake</option>
+                                                    <option value="3">Chanachur</option>
+                                                    <option value="16">Dabli</option>
+                                                    <option value="14">Dry Cake</option>
+                                                    <option value="17">Edit</option>
+                                                    <option value="12">Labour cost</option>
+                                                    <option value="18">Laddu</option>
+                                                    <option value="4">Lose Biscuts</option>
+                                                    <option value="5">Lose Chanachur/ Monnekha/ Dabli</option>
+                                                    <option value="11">Monnekha</option>
+                                                    <option value="19">Others</option>
+                                                    <option value="2">Raw Materials</option>
+                                                    <option value="13">Shamai</option>
+                                                    <option value="6">Toast</option>
+                                            </select>
+                    </div>
+                    <canvas id="categoryChart"></canvas>
+                </div>
+                <!-- Top Suppliers -->
+                <div class="chart-box">
+                    <h3 style="color:#667fa0;">Top Suppliers</h3>
+                    <canvas id="supplierChart"></canvas>
+                </div>
+
+                </div>
+            </div>
+
+            <!-- Recent Purchase Orders -->
+            <div class="chart-box" style="margin-top:25px">
+                <h3 style="color:#667fa0;">Recent Purchase Orders</h3>
+                <table id="ordersTable">
+                <thead class="sales-thead"><tr><th>Invoice</th><th>Date</th><th>Supplier</th><th>Amount</th><th>Status</th></tr></thead>
+                <tbody class="sales-tbody"></tbody>
+                </table>
+            </div>        </section>
+
+        
+        <section id="panel-overview" class="dt-panel" role="tabpanel" aria-labelledby="tab-overview" aria-hidden="true">
+            
+
+  <h2 style="margin-bottom:20px;">📦 Overview Dashboard</h2>
+  <div class="overview-dashboard">
+
+    <div class="overview-kpi-card">
+      <h4>💰 Revenue (MTD)</h4>
+      <h2 id="revenue">৳ 0</h2>
+      <p id="revenueChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>💸 Total Cost (MTD)</h4>
+      <h2 id="cost">৳ 0</h2>
+      <p id="costChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>📈 Net Profit</h4>
+      <h2 id="profit">৳ 0</h2>
+      <p id="profitChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>📊 Profit Margin %</h4>
+      <h2 id="margin">0%</h2>
+      <p id="marginChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>🏭 Production Efficiency</h4>
+      <h2 id="efficiency">0%</h2>
+      <p id="efficiencyChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>📦 Low Stock Critical Items</h4>
+      <h2 id="lowStock">0</h2>
+      <p id="lowStockChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>🛒 Pending Sales Orders</h4>
+      <h2 id="pendingSales">0</h2>
+      <p id="pendingSalesChange" class="change"></p>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>⚠️ Delayed Productions</h4>
+      <h2 id="delayedProduction">0</h2>
+      <p id="delayedProductionChange" class="change"></p>
+    </div>
+  </div>
+
+  <div class="overview-dashboard">
+
+    <div class="overview-kpi-card">
+      <h4>💰 Daily Purchases</h4>
+      <h2 id="dailyPurchases">৳ 0</h2>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>💸 Monthly Purchases</h4>
+      <h2 id="monthlyPurchases">৳ 0</h2>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>📈 Daily Sales</h4>
+      <h2 id="dailySales">৳ 0</h2>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>📊 Monthly Sales</h4>
+      <h2 id="mmonthlySales">0%</h2>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>🏭 Daily Production</h4>
+      <h2 id="dailyProduction">0%</h2>
+    </div>
+
+    <div class="overview-kpi-card">
+      <h4>📦 Monthly Production</h4>
+      <h2 id="monthlyProduction">0</h2>
+    </div>
+  </div>
+
+
+  <div class="card cost-control-view" style="display: flex; flex-wrap: wrap; gap: 40px;margin-bottom:25px">
+    <canvas id="businessFlowChart" height="100"></canvas>
+  </div>
+
+  <div class="overview-dashboard">
+    <div class="card">
+      <h4>🛒 Sales Order Status</h4>
+      <canvas id="salesStatus"></canvas>
+    </div>
+
+    <div class="card">
+      <h4>🏭 Production Status</h4>
+      <canvas id="productionStatus"></canvas>
+    </div>
+
+    <div class="card">
+      <h4>📦 Inventory Status</h4>
+      <canvas id="inventoryStatus"></canvas>
+    </div>
+
+    <div class="card">
+      <h4>👥 HR Attendance</h4>
+      <canvas id="hrStatus"></canvas>
+    </div>
+  </div>
+
+  <div class="card cost-control-view" style="display: flex; flex-wrap: wrap; gap: 40px;margin-bottom:25px">
+    <!-- Cost Breakdown Chart -->
+    <div style="width: 45%; min-width: 300px;">
+      <h3>Cost Breakdown (MTD)</h3>
+      <canvas id="costBreakdownChart"></canvas>
+    </div>
+
+    <!-- Cost per Unit Trend Chart -->
+    <div style="width: 45%; min-width: 300px;">
+      <h3>Cost per Unit Trend (Last 6 Months)</h3>
+      <canvas id="costPerUnitChart"></canvas>
+    </div>
+  </div>
+
+  
+
+  <div class="panel-container overview-dashboard">
+    <!-- RISK PANEL -->
+    <div class="panel" id="riskPanel">
+      <div class="panel-title">
+        <span class="risk-dot red"></span>
+        <h3>Top 5 Risks</h3>
+      </div>
+      <div id="riskList"></div>
+    </div>
+
+    <!-- OPPORTUNITY PANEL -->
+    <div class="panel" id="opportunityPanel">
+      <div class="panel-title">
+        <span class="opportunity-dot green"></span>
+        <h3>Top 5 Opportunities</h3>
+      </div>
+      <div id="opportunityList"></div>
+    </div>
+  </div>
+
+  <div class="overview-dashboard">
+    <div class="card alertcard">
+      <h3 style="text-align:left;">Alerts & Insights</h3>
+      <div class="alerts-container" id="alertsContainer">
+      <!-- Alerts will be injected here -->
+      </div>
+    </div>
+  </div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  /*const data = {
+  revenue: { current: 1250000, previous: 1100000 },
+  cost: { current: 780000, previous: 720000 },
+  profit: { current: 470000, previous: 380000 },
+  margin: { current: 37.6, previous: 34.5 },
+  efficiency: { current: 88, previous: 91 },
+  lowStock: { current: 6, previous: 4 },
+  pendingSales: { current: 18, previous: 25 },
+  delayedProduction: { current: 3, previous: 1 }
+};
+
+function updateCard(id, changeId, current, previous, prefix = "", suffix = "") {
+  document.getElementById(id).innerText = `${prefix}${current}${suffix}`;
+
+  let diff = ((current - previous) / previous * 100).toFixed(1);
+  let el = document.getElementById(changeId);
+
+  if (diff >= 0) {
+    el.innerText = `▲ ${diff}% vs last month`;
+    el.className = "change positive";
+  } else {
+    el.innerText = `▼ ${Math.abs(diff)}% vs last month`;
+    el.className = "change negative";
+  }
+}*/
+
+
+
+//updateCard("lowStock", "lowStockChange", data.lowStock.current, data.lowStock.previous);
+
+//updateCard("delayedProduction", "delayedProductionChange", data.delayedProduction.current, data.delayedProduction.previous);
+</script>
+<script>
+  /*const ctx = document.getElementById('businessFlowChart').getContext('2d');
+
+  const businessFlowChart = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: [
+        'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'
+      ],
+      datasets: [
+        {
+          label: 'Sales',
+          data: [120000, 135000, 150000, 145000, 160000, 175000],
+          borderWidth: 2,
+          tension: 0.4,
+          fill: true
+        },
+        {
+          label: 'Purchases',
+          data: [80000, 90000, 95000, 100000, 110000, 120000],
+          borderWidth: 2,
+          tension: 0.4,
+          fill: true
+        },
+        {
+          label: 'Production Output',
+          data: [1000, 1200, 1300, 1250, 1400, 1500],
+          borderWidth: 2,
+          tension: 0.4,
+          fill: false
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: {
+          position: 'top'
+        },
+        tooltip: {
+          mode: 'index',
+          intersect: false
+        }
+      },
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Month'
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Amount / Quantity'
+          },
+          beginAtZero: true
+        }
+      }
+    }
+  });*/
+</script>
+<script>
+function createDonutChart(canvasId, labels, data, colors) {
+  new Chart(document.getElementById(canvasId), {
+    type: 'doughnut',
+    data: {
+      labels: labels,
+      datasets: [{
+        data: data,
+        backgroundColor: colors,
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      cutout: '65%',
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: {
+            boxWidth: 12,
+            font: {
+              size: 11
+            }
+          }
+        }
+      }
+    }
+  });
+}
+</script>
+
+
+<script>
+  // Sample Data (In reality, fetch from API / DB)
+  const risks = [
+    { name: 'Low stock: Item A', value: '5 units left' },
+    { name: 'Delayed production: Order #1023', value: '2 days delay' },
+    { name: 'High cost variance: Product X', value: '+15%' },
+    { name: 'Low stock: Item B', value: '8 units left' },
+    { name: 'Delayed production: Order #1031', value: '1 day delay' },
+  ];
+
+  const opportunities = [
+    { name: 'Highest margin product: Product Y', value: '45% profit' },
+    { name: 'Fast moving item: Item C', value: '120 units sold' },
+    { name: 'Best performing line: Line 2', value: '95% efficiency' },
+    { name: 'Highest margin product: Product Z', value: '38% profit' },
+    { name: 'Fast moving item: Item D', value: '110 units sold' },
+  ];
+
+  // Function to render risk list
+  function renderList(list, containerId, type) {
+    const container = document.getElementById(containerId);
+    container.innerHTML = '';
+    list.forEach(item => {
+      const div = document.createElement('div');
+      div.classList.add(type === 'risk' ? 'risk-item' : 'opportunity-item');
+      div.innerHTML = `<span>${item.name}</span> <span>${item.value}</span>`;
+      container.appendChild(div);
+    });
+  }
+
+  // Render panels
+  renderList(risks, 'riskList', 'risk');
+  renderList(opportunities, 'opportunityList', 'opportunity');
+
+</script>
+
+<script>
+    // Example JSON data from backend
+    /*const alertsData = [
+      { icon: "⚠️", text: "Purchase cost increased 12% vs last month", type: "red" },
+      { icon: "📦", text: "4 critical raw materials below reorder level", type: "orange" },
+      { icon: "🏭", text: "Production efficiency dropped to 82%", type: "red" },
+      { icon: "📈", text: "Sales grew 18% MoM", type: "green" }
+    ];
+
+    // Function to render alerts
+    function renderAlerts(alerts) {
+      const container = document.getElementById('alertsContainer');
+      container.innerHTML = ''; // Clear previous alerts
+
+      alerts.forEach(alert => {
+        const div = document.createElement('div');
+        div.className = 'alert-card';
+
+        // Color class
+        let colorClass = '';
+        switch(alert.type) {
+          case 'red': colorClass = 'alert-red'; break;
+          case 'green': colorClass = 'alert-green'; break;
+          case 'orange': colorClass = 'alert-orange'; break;
+          case 'blue': colorClass = 'alert-blue'; break;
+          default: colorClass = '';
+        }
+
+        div.innerHTML = `
+          <div class="alert-icon ${colorClass}">${alert.icon}</div>
+          <div class="alert-text">${alert.text}</div>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    // Initial render
+    renderAlerts(alertsData);
+
+    // Optional: Auto-refresh every 60 sec (simulate live update)
+    setInterval(() => {
+      // TODO: Fetch new data from backend API
+      // Example: fetch('/api/alerts').then(res => res.json()).then(data => renderAlerts(data));
+
+      // For demo, we rotate the alerts array
+      alertsData.push(alertsData.shift());
+      renderAlerts(alertsData);
+    }, 60000);*/
+
+  </script>
+            
+        </section>                    
+        
+        <section id="panel-sales" class="dt-panel" role="tabpanel" aria-labelledby="tab-sales" aria-hidden="true">
+    
+          <h2 style="margin-bottom:20px;">📊 Sales Dashboard</h2>
+
+<div class="sales-dashboard">
+<div class="sales card"><h3>Total Sales</h3><p id="totalSales">৳ 0</p></div>
+<div class="sales card"><h3>Total Orders</h3><p id="totalSalesOrders">0</p></div>
+<div class="sales card"><h3>Avg Order Value</h3><p id="totalAvgSales">৳ 0</p></div>
+<div class="sales card"><h3>Top Product</h3><p id="topSellingProduct"></p></div>
+</div>
+
+<div class="sales-charts">
+<div class="chart-container">
+    <div class="sales-chart-header">
+    <h3 style="color:#667fa0;">Monthly Sales Trend</h3>
+    <select id="salesTrendFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+        <option value="all">All Months</option>
+        <option value="Q1">Q1</option>
+        <option value="Q2">Q2</option>
+        <option value="Q3">Q3</option>
+        <option value="Q4">Q4</option>
+    </select>
+    </div>
+    <canvas id="salesTrend"></canvas>
+</div>
+
+<div class="chart-container">
+    <div class="sales-chart-header">
+    <h3 style="color:#667fa0;">Product Wise Sales</h3>
+    <select name="cbo_item_id" class="form-control input-item" id="productSalesFilter">
+<option value="0"></option>
+</select>
+    <!--<select id="productSalesFilter" class="chart-filter">
+        <option value="all">All Products</option>
+        <option value="Tea">Tea</option>
+        <option value="Coffee">Coffee</option>
+        <option value="Milk">Milk</option>
+        <option value="Juice">Juice</option>
+        <option value="Sugar">Sugar</option>
+        <option value="Snacks">Snacks</option>
+    </select>-->
+    </div>
+    <canvas id="productSales"></canvas>
+</div>
+
+<div class="chart-container">
+    <div class="sales-chart-header">
+    <h3 style="color:#667fa0;">Payment Method</h3>
+    <select name="cbo_cash_bank_id" class="form-control" id="paymentMethodFilter">
+<option value="" selected="selected">--- Select Ledger Head ---</option>
+</select>
+    <!--<select id="paymentMethodFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+        <option value="all">All Methods</option>
+        <option value="Cash">Cash</option>
+        <option value="Bank">Bank</option>
+    </select>-->
+    </div>
+    <canvas id="paymentMethod"></canvas>
+</div>
+</div>
+
+<div class="bottom-section">
+<div class="chart-container">
+    <div class="chart-header">
+    <h3 style="color:#667fa0;">Salesperson Performance</h3>
+    <select id="salespersonFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+        <option value="all">All Salespersons</option>
+            </select>
+    </div>
+    <canvas id="salespersonChart"></canvas>
+</div>
+<div class="top-products">
+    <h3 style="color:#667fa0;">🏆 Top 5 Products</h3>
+    <table class="top-product" id="topProductTable">
+    <thead class="sales-thead">
+        <tr>
+        <th>Rank</th>
+        <th>Product</th>
+        <th>Units Sold</th>
+        <th>Total Sales (৳)</th>
+        </tr>
+    </thead>
+    <tbody class="top-product-tbody">
+        
+    </tbody>
+    </table>
+</div>
+</div>
+        </section>
+
+        <section id="panel-productions" class="dt-panel" role="tabpanel" aria-labelledby="tab-productions" aria-hidden="true">
+
+            <h2 style="margin-bottom:20px;">📊 Production & BoM Dashboard</h2>
+
+            <!-- KPI CARDS -->
+            <div class="kpi-cards">
+              <div class="kpi-card" style="background:#e3f2fd;">
+                <h4>Total Production</h4>
+                <p style="color:#0b74ff;">12,450 Units</p>
+              </div>
+              <div class="kpi-card" style="background:#fff3cd;">
+                <h4>Total Cost</h4>
+                <p style="color:#856404;">৳ 2,45,000</p>
+              </div>
+              <div class="kpi-card" style="background:#e8f5e9;">
+                <h4>Efficiency</h4>
+                <p style="color:#388e3c;">93%</p>
+              </div>
+              <div class="kpi-card" style="background:#fdecea;">
+                <h4>Waste %</h4>
+                <p style="color:#d32f2f;">7.5%</p>
+              </div>
+            </div>
+
+            <!-- DASHBOARD GRID -->
+            <div class="dashboard">
+              <!-- NEW: WASTE ANALYSIS -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Production Wastage Analysis</h3>
+                </div>
+                <canvas id="wasteChart"></canvas>
+              </div>
+              <!-- RAW vs FINISH -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Raw vs Finish Items Utilization</h3>
+                  <select id="pieFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+                    <option value="all">All</option>
+                    <option value="this_month">This Month</option>
+                    <option value="last_month">Last Month</option>
+                  </select>
+                </div>
+                <canvas id="pieChart"></canvas>
+              </div>
+
+              <!-- TOP RAW MATERIALS -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Top Used Raw Materials</h3>
+                  <select id="barFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+                    <option value="all">All</option>
+                    <option value="this_month">This Month</option>
+                    <option value="last_month">Last Month</option>
+                  </select>
+                </div>
+                <canvas id="barChart"></canvas>
+              </div>
+
+              <!-- COST TREND -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Production Cost Trend</h3>
+                  <select id="lineFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+                    <option value="all">All</option>
+                    <option value="6">Last 6 Months</option>
+                    <option value="12">Last 12 Months</option>
+                  </select>
+                </div>
+                <canvas id="lineChart"></canvas>
+              </div>
+
+              <!-- COST BREAKDOWN -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Cost Percentage Breakdown</h3>
+                  <select id="doughnutFilter" class="chart-filter" style="color:#667fa0; border:1px solid #667fa0;">
+                    <option value="all">All</option>
+                    <option value="this_month">This Month</option>
+                    <option value="last_month">Last Month</option>
+                  </select>
+                </div>
+                <canvas id="doughnutChart"></canvas>
+              </div>
+
+              <!-- NEW: PRODUCTION EFFICIENCY -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Production Efficiency (Target vs Achieved)</h3>
+                </div>
+                <canvas id="efficiencyChart"></canvas>
+              </div>
+
+              <!-- NEW: MACHINE UTILIZATION -->
+              <div class="production-card">
+                <div class="card-header">
+                  <h3 style="color:#667fa0;">Machine Utilization</h3>
+
+                </div>
+                <canvas id="machineChart"></canvas>
+              </div>
+
+              <!-- NEW: LABOUR PRODUCTIVITY -->
+              <!--<div class="production-card">
+                <div class="card-header">
+                  <h3>Labour Productivity Trend</h3>
+                </div>
+                <canvas id="labourChart"></canvas>
+              </div>-->
+            </div>            
+        </section>
+
+        <section id="panel-hrm" class="dt-panel" role="tabpanel" aria-labelledby="tab-hrm" aria-hidden="true">
+            
+            <h2 style="margin-bottom:20px;">👥 HRM Dashboard</h2>
+            <!-- KPI Cards -->
+            <div class="kpi-cards">
+                <div class="kpi-card">
+                <h2 id="totalEmp" style="font-size: 16px;color:#5d82b3;">245</h2>
+                <p style="color:#667fa0;font-size: 17px !important;">Total Employees</p>
+                </div>
+                <div class="kpi-card">
+                <h2 id="presentEmp" style="font-size: 16px;color:#5d82b3;">223</h2>
+                <p style="color:#667fa0;font-size: 17px !important;">Present Today</p>
+                </div>
+                <div class="kpi-card">
+                <h2 id="leaveEmp" style="font-size: 16px;color:#5d82b3;">22</h2>
+                <p style="color:#667fa0;font-size: 17px !important;">On Leave</p>
+                </div>
+                <div class="kpi-card">
+                <h2 id="newJoin" style="font-size: 16px;color:#5d82b3;">8</h2>
+                <p style="color:#667fa0;font-size: 17px !important;">New Joinees (This Month)</p>
+                </div>
+                <div class="kpi-card">
+                <h2 id="attrition" style="font-size: 16px;color:#5d82b3;">3.2%</h2>
+                <p style="color:#667fa0;font-size: 17px !important;">Attrition Rate</p>
+                </div>
+            </div>
+
+            <!-- Charts -->
+            <div class="charts">
+                <div class="chart-container">
+                <h3 style="color:#667fa0;">Department Wise Employee Count</h3>
+                <canvas id="deptChart"></canvas>
+                </div>
+                <div class="chart-container">
+                <h3 style="color:#667fa0;">Monthly Attendance Trend</h3>
+                <canvas id="attendanceChart"></canvas>
+                </div>
+                <div class="chart-container">
+                <h3 style="color:#667fa0;">Gender Ratio</h3>
+                <canvas id="genderChart"></canvas>
+                </div>
+                <div class="chart-container">
+                <h3 style="color:#667fa0;">Leave Type Breakdown</h3>
+                <canvas id="leaveChart"></canvas>
+                </div>
+            </div>        </section>
+        </div>
+    </div>
+
+    <!--<script src="media/flatlab/js/jquery.sparkline.js" type="text/javascript"></script> 
+        
+  
+     script for this page
+    <script src="media/flatlab/js/sparkline-chart.js"></script>   -->
+
+
+
+  
+
+
+								<button onclick="topFunction()" id="topBtn" class="noprint" title="Go to top">&nbsp;</button>
+
+								<!-- modal content -->
+								<div id="basic-modal-content">
+									<h3>Problem in internet connection</h3>
+									<p>The application failed to communicate with the server. Please check your network connectivity</p>
+									<p>What can you do:</p>
+									<p><code>1) Check your network connection.</code></p>
+									<p><code>2) If you are using a modem, you can disconect and reconnect again.</code></p>
+								</div>
+								<!-- page end-->
+								<div id="report_container" style='width:100%;float:left;border-top:solid 1px #d0d0d0;display:none;'></div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<div id="footer">
+					<div id="wrapfooter">
+						<div id="leftFooter">
+							<p align="center">Omega ERP v-4.2.0. Copyright &copy; 2012-2026  Omega Software's & Techologies.  All rights reserved.
+								<br />Served in 0.8514 second and using 0.69MB Memory
+							</p>
+						</div>
+						<!-- <div id="rightFooter">
+						<ul id="footer_menu">
+							<li><p>Served in 0.8514 second</p></li>
+						</ul>
+					</div> -->
+						<!-- end of rightFooter -->
+					</div>
+				</div>
+			</section>
+			<!--main content end-->
+		</section>
+	</div>
+	<!-- js placed at the end of the document so the pages load faster 
+	 
+    <script src="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/js/jquery.nicescroll_new22.js" type="text/javascript"></script> -->
+	<!--common script for all pages-->
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/js/common-scripts.js"></script>
+
+
+	<script type="text/javascript">
+		//adding effect ot the content
+		$(document).ready(function() {
+			//$('#topBody').hide();
+			//$('#topBody').fadeIn('slow');
+			//	window.setInterval(check_connectivity, 30000);
+		});
+		//Checking internet connectivity on every 20 seconds
+		//Function to check connectivity by a server request to fetch a image file
+
+
+		//window.setTimeout(execute_ajax_job, 6);
+		window.setTimeout(execute_ajax_job, 240000);
+		//window.setInterval(check_connectivity, 3000);
+
+		function execute_ajax_job() {
+			window.setInterval(check_connectivity, 300000);
+			//get_holiday_check_notification();
+
+		}
+
+		function check_connectivity() {
+			$.ajax({
+				type: 'GET',
+				url: 'https://erp.omegasoftbd.com/erp/demo_prod/media/images/twitter-bubble-bg.gif',
+				timeout: 90000,
+				cache: false,
+				success: function(data) {
+					//$.modal.close();
+					$("#internet-error-message").hide();
+					if (window.console && window.console.error) {
+						//writing to error console for debugging
+						console.error("Connection Check: Success");
+					}
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown) {
+					//show_modal();
+					$("#internet-error-message").show();
+					if (window.console && window.console.error) {
+						//writing to error console for debugging
+						console.error("Connection Check: Failed");
+					}
+				}
+			})
+		}
+
+		//Action on global ajax error - pointing out a connectivity issue
+		$(document).ajaxError(function() {
+			//alert("The appication could not connect to the server. Please check your internet connectivity.");
+			if (window.console && window.console.error) {
+				console.error(arguments);
+			}
+		});
+
+		function show_modal() {
+			$('#basic-modal-content').modal({
+				onOpen: function(dialog) {
+					dialog.overlay.fadeIn('slow', function() {
+						dialog.container.slideDown('slow', function() {
+							dialog.data.fadeIn('slow');
+						});
+					});
+				}
+			});
+		}
+		// Ajax activity indicator bound to ajax start/stop document events
+		$(document).ajaxStart(function() {
+			$('#global-ajax-loader').show();
+		}).ajaxStop(function() {
+			$('#global-ajax-loader').hide();
+			$.unblockUI();
+		});
+		//hack - required for firefox in linux
+		$.blockUI.defaults.applyPlatformOpacityRules = false;
+	</script>
+
+	<script type="text/javascript">
+		/*--This JavaScript method for Print command--*/
+
+		function PrintDoc() {
+
+			var toPrint = document.getElementById('report_container');
+
+			var popupWin = window.open('', '_blank', 'width=750,height=650,location=no,left=100px');
+
+			popupWin.document.open();
+
+			popupWin.document.write('<html><title>PDF_Reports_OmegaERP</title><link rel="icon" href="https://erp.omegasoftbd.com/erp/demo_prod/media/images/favicon.ico" /><link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/style_flatlab.css" rel="stylesheet"><link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/report.css" rel="stylesheet"><link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/css/bootstrap.min.css" rel="stylesheet"></head><body onload="window.print()">')
+
+			
+			popupWin.document.write(toPrint.innerHTML);
+
+			popupWin.document.write('</html>');
+
+			popupWin.document.close();
+
+		}
+
+		/*--This JavaScript method for Print Preview command--*/
+
+		function PrintPreview() {
+
+			var toPrint = document.getElementById('report_container');
+
+			var popupWin = window.open('', '_blank');
+
+			popupWin.document.open();
+
+			popupWin.document.write('<html><title>PDF_Reports_OmegaERP</title><link rel="icon" href="https://erp.omegasoftbd.com/erp/demo_prod/media/images/favicon.ico" /><link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/style_flatlab.css" rel="stylesheet"><link href="https://erp.omegasoftbd.com/erp/demo_prod/media/css/report.css" rel="stylesheet"><link href="https://erp.omegasoftbd.com/erp/demo_prod/media/flatlab/css/bootstrap.min.css" rel="stylesheet"></head>')
+
+			
+			popupWin.document.write(toPrint.innerHTML);
+
+			popupWin.document.write('</html>');
+
+			popupWin.document.close();
+
+		}
+	</script>
+
+	
+		<script type="text/javascript">
+			$(document).ready(function() {
+				//check quantity field interger / numeric value
+				$("#txt_quantity").keydown(function(event) {
+					// Allow only backspace and delete
+					if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9 || event.keyCode == 190 || event.keyCode == 110 || event.keyCode == 37 || event.keyCode == 38 || event.keyCode == 39 || event.keyCode == 40) {
+						// let it happen, don't do anything
+					} else {
+						// Ensure that it is a number and stop the keypress
+						if (event.keyCode < 48 || event.keyCode < 96 && event.keyCode > 57 || event.keyCode > 105) {
+							event.preventDefault();
+						}
+					}
+				});
+				//check unit_price field interger / numeric value
+				$("#txt_amount").keydown(function(event) {
+					// Allow only backspace and delete
+					if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9 || event.keyCode == 190 || event.keyCode == 110 || event.keyCode == 37 || event.keyCode == 38 || event.keyCode == 39 || event.keyCode == 40) {
+						// let it happen, don't do anything
+					} else {
+						// Ensure that it is a number and stop the keypress
+						if (event.keyCode < 48 || event.keyCode < 96 && event.keyCode > 57 || event.keyCode > 105) {
+							event.preventDefault();
+						}
+					}
+				});
+				$("#txt_total_discount").keydown(function(event) {
+					// Allow only backspace and delete
+					if (event.keyCode == 46 || event.keyCode == 8 || event.keyCode == 9 || event.keyCode == 190 || event.keyCode == 110 || event.keyCode == 37 || event.keyCode == 38 || event.keyCode == 39 || event.keyCode == 40) {
+						// let it happen, don't do anything
+					} else {
+						// Ensure that it is a number and stop the keypress
+						if (event.keyCode < 48 || event.keyCode < 96 && event.keyCode > 57 || event.keyCode > 105) {
+							event.preventDefault();
+						}
+					}
+				});
+			});
+
+
+			function BnToEnReplace(ben_number) {
+				return ben_number;
+			}
+		</script>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61820799-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-61820799-1');
+		</script>
+
+	
+	<script src="https://erp.omegasoftbd.com/erp/demo_prod/media/js/screenfull.js" type="text/javascript"></script>
+	<script>
+		$(function() {
+			$('#supported').text('Supported/allowed: ' + !!screenfull.enabled);
+			if (!screenfull.enabled) {
+				return false;
+			}
+			$('#request').click(function() {
+				screenfull.request($('#container')[0]);
+				// Does not require jQuery. Can be used like this too:
+				// screenfull.request(document.getElementById('container'));
+			});
+			$('#exit').click(function() {
+				screenfull.exit();
+			});
+			$('#toggle').click(function() {
+				//screenfull.toggle($('#wrapper')[0]);
+				screenfull.request();
+			});
+			$('#request2').click(function() {
+				screenfull.request();
+			});
+			$('#demo-img').click(function() {
+				screenfull.toggle(this);
+			});
+
+			function fullscreenchange() {
+				var elem = screenfull.element;
+				$('#status').text('Is fullscreen: ' + screenfull.isFullscreen);
+				if (elem) {
+					$('#element').text('Element: ' + elem.localName + (elem.id ? '#' + elem.id : ''));
+				}
+				if (!screenfull.isFullscreen) {
+					$('#external-iframe').remove();
+					document.body.style.overflow = 'auto';
+				}
+			}
+			screenfull.on('change', fullscreenchange);
+			// Set the initial values
+			fullscreenchange();
+		});
+
+		$(document).ready(function() {
+			// Main menu toggle
+			$('.sidebar-toggle-box').on('click', function() {
+				$('.navbar-collapse').toggleClass('show');
+				$('#main-content_OFF').toggleClass('menu-expanded');
+			});
+
+			// Submenu toggle
+			$(document).on('click', '.submenu-toggle', function(e) {
+				if ($(window).width() <= 991) {
+					e.preventDefault();
+					$(this).parent().toggleClass('open');
+					$(this).siblings('ul').slideToggle(200);
+				}
+			});
+		});
+	</script>
+</body>
+
+</html>

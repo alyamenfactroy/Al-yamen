@@ -33,9 +33,26 @@ const translations: Record<Language, Record<string, string>> = {
     "nav.accounting": "হিসাব",
     "nav.daily_ledger": "দৈনিক হিসাব",
     "nav.expense_report": "ব্যয় প্রতিবেদন",
+    "nav.bank_accounts": "ব্যাংক হিসাব",
     "nav.settings": "সেটিংস",
     "nav.system_config": "সিস্টেম কনফিগারেশন",
     "nav.user_roles": "ব্যবহারকারীর ভূমিকা",
+    "nav.purchase": "ক্রয়",
+    "nav.new_purchase": "নতুন ক্রয়",
+    "nav.purchase_history": "ক্রয়ের ইতিহাস",
+    "nav.suppliers": "সরবরাহকারী",
+    "nav.reports": "প্রতিবেদন",
+    "nav.profit_loss": "লাভ-ক্ষতি",
+    "nav.sales_report": "বিক্রয় প্রতিবেদন",
+    "nav.stock_report": "স্টক প্রতিবেদন",
+    "nav.customers_crm": "গ্রাহক সেবা",
+    "nav.loyalty": "আনুগত্য পুরস্কার",
+    // Nav Section Labels
+    "nav.section.operations": "কার্যক্রম",
+    "nav.section.stock": "স্টক ও মজুদ",
+    "nav.section.people": "কর্মী ও গ্রাহক",
+    "nav.section.finance": "আর্থিক",
+    "nav.section.system": "সিস্টেম",
     // Dashboard
     "dashboard.title": "ড্যাশবোর্ড",
     "dashboard.welcome": "স্বাগতম, আল-ইয়ামেন বিজনেস",
@@ -47,6 +64,15 @@ const translations: Record<Language, Record<string, string>> = {
     "dashboard.monthly_overview": "মাসিক সারসংক্ষেপ",
     "dashboard.top_products": "শীর্ষ পণ্য",
     "dashboard.quick_stats": "দ্রুত পরিসংখ্যান",
+    "dashboard.quick_actions": "দ্রুত কার্য",
+    "dashboard.expense_breakdown": "ব্যয়ের বিশ্লেষণ",
+    "dashboard.weekly_activity": "সাপ্তাহিক কার্যক্রম",
+    "dashboard.sales_by_category": "বিভাগ অনুযায়ী বিক্রয়",
+    "dashboard.kpi_overview": "কেপিআই সংক্ষেপ",
+    "dashboard.total_purchase": "মোট ক্রয়",
+    "dashboard.cash_balance": "মোট ব্যালেন্স",
+    "dashboard.total_customers": "মোট গ্রাহক",
+    "dashboard.stock_items": "স্টক আইটেম",
     // Common
     "common.add": "যোগ করুন",
     "common.edit": "সম্পাদনা",
@@ -73,6 +99,7 @@ const translations: Record<Language, Record<string, string>> = {
     "common.pending": "অপেক্ষমান",
     "common.completed": "সম্পন্ন",
     "common.cancelled": "বাতিল",
+    "common.processing": "প্রক্রিয়াধীন",
     "common.view_all": "সব দেখুন",
     "common.phone": "ফোন",
     "common.email": "ইমেইল",
@@ -97,6 +124,8 @@ const translations: Record<Language, Record<string, string>> = {
     "common.order": "অর্ডার",
     "common.language": "ভাষা",
     "common.settings": "সেটিংস",
+    "common.received": "প্রাপ্ত",
+    "common.ordered": "অর্ডার করা হয়েছে",
     // Stats
     "stats.this_month": "এই মাসে",
     "stats.last_month": "গত মাসে",
@@ -143,7 +172,6 @@ const translations: Record<Language, Record<string, string>> = {
     "company.tagline": "ব্যবসায়িক ব্যবস্থাপনা সিস্টেম",
   },
   en: {
-    // Navigation
     "nav.dashboard": "Dashboard",
     "nav.transactions": "Transactions",
     "nav.add_transaction": "Add Transaction",
@@ -165,10 +193,25 @@ const translations: Record<Language, Record<string, string>> = {
     "nav.accounting": "Accounting",
     "nav.daily_ledger": "Daily Ledger",
     "nav.expense_report": "Expense Report",
+    "nav.bank_accounts": "Bank Accounts",
     "nav.settings": "Settings",
     "nav.system_config": "System Config",
     "nav.user_roles": "User Roles",
-    // Dashboard
+    "nav.purchase": "Purchase",
+    "nav.new_purchase": "New Purchase",
+    "nav.purchase_history": "Purchase History",
+    "nav.suppliers": "Suppliers",
+    "nav.reports": "Reports",
+    "nav.profit_loss": "Profit & Loss",
+    "nav.sales_report": "Sales Report",
+    "nav.stock_report": "Stock Report",
+    "nav.customers_crm": "CRM",
+    "nav.loyalty": "Loyalty Rewards",
+    "nav.section.operations": "Operations",
+    "nav.section.stock": "Stock & Inventory",
+    "nav.section.people": "People & CRM",
+    "nav.section.finance": "Finance",
+    "nav.section.system": "System",
     "dashboard.title": "Dashboard",
     "dashboard.welcome": "Welcome, Al-Yamen Business",
     "dashboard.total_revenue": "Total Revenue",
@@ -179,7 +222,15 @@ const translations: Record<Language, Record<string, string>> = {
     "dashboard.monthly_overview": "Monthly Overview",
     "dashboard.top_products": "Top Products",
     "dashboard.quick_stats": "Quick Stats",
-    // Common
+    "dashboard.quick_actions": "Quick Actions",
+    "dashboard.expense_breakdown": "Expense Breakdown",
+    "dashboard.weekly_activity": "Weekly Activity",
+    "dashboard.sales_by_category": "Sales by Category",
+    "dashboard.kpi_overview": "KPI Overview",
+    "dashboard.total_purchase": "Total Purchase",
+    "dashboard.cash_balance": "Cash & Bank Balance",
+    "dashboard.total_customers": "Total Customers",
+    "dashboard.stock_items": "Stock Status",
     "common.add": "Add",
     "common.edit": "Edit",
     "common.delete": "Delete",
@@ -205,6 +256,7 @@ const translations: Record<Language, Record<string, string>> = {
     "common.pending": "Pending",
     "common.completed": "Completed",
     "common.cancelled": "Cancelled",
+    "common.processing": "Processing",
     "common.view_all": "View All",
     "common.phone": "Phone",
     "common.email": "Email",
@@ -229,12 +281,12 @@ const translations: Record<Language, Record<string, string>> = {
     "common.order": "Order",
     "common.language": "Language",
     "common.settings": "Settings",
-    // Stats
+    "common.received": "Received",
+    "common.ordered": "Ordered",
     "stats.this_month": "This Month",
     "stats.last_month": "Last Month",
     "stats.growth": "Growth",
     "stats.change": "Change",
-    // Transactions
     "transactions.title": "Transactions",
     "transactions.add_new": "Add New Transaction",
     "transactions.income": "Income",
@@ -242,7 +294,6 @@ const translations: Record<Language, Record<string, string>> = {
     "transactions.transfer": "Transfer",
     "transactions.reference": "Reference",
     "transactions.notes": "Notes",
-    // Inventory
     "inventory.title": "Inventory",
     "inventory.add_product": "Add Product",
     "inventory.product_name": "Product Name",
@@ -252,7 +303,6 @@ const translations: Record<Language, Record<string, string>> = {
     "inventory.current_stock": "Current Stock",
     "inventory.low_stock": "Low Stock",
     "inventory.out_of_stock": "Out of Stock",
-    // HR
     "hr.title": "Human Resources",
     "hr.add_employee": "Add Employee",
     "hr.employee_id": "Employee ID",
@@ -260,7 +310,6 @@ const translations: Record<Language, Record<string, string>> = {
     "hr.present": "Present",
     "hr.absent": "Absent",
     "hr.leave": "Leave",
-    // Settings
     "settings.title": "Settings",
     "settings.company_name": "Company Name",
     "settings.business_type": "Business Type",
@@ -270,12 +319,10 @@ const translations: Record<Language, Record<string, string>> = {
     "settings.user_management": "User Management",
     "settings.role": "Role",
     "settings.permissions": "Permissions",
-    // Company
     "company.al_yamen": "Al-Yamen",
     "company.tagline": "Business Management System",
   },
   ar: {
-    // Navigation
     "nav.dashboard": "لوحة التحكم",
     "nav.transactions": "المعاملات",
     "nav.add_transaction": "إضافة معاملة",
@@ -297,10 +344,25 @@ const translations: Record<Language, Record<string, string>> = {
     "nav.accounting": "المحاسبة",
     "nav.daily_ledger": "دفتر اليومية",
     "nav.expense_report": "تقرير المصروفات",
+    "nav.bank_accounts": "الحسابات البنكية",
     "nav.settings": "الإعدادات",
     "nav.system_config": "إعدادات النظام",
     "nav.user_roles": "أدوار المستخدمين",
-    // Dashboard
+    "nav.purchase": "المشتريات",
+    "nav.new_purchase": "مشتريات جديدة",
+    "nav.purchase_history": "تاريخ المشتريات",
+    "nav.suppliers": "الموردون",
+    "nav.reports": "التقارير",
+    "nav.profit_loss": "الأرباح والخسائر",
+    "nav.sales_report": "تقرير المبيعات",
+    "nav.stock_report": "تقرير المخزون",
+    "nav.customers_crm": "إدارة العملاء",
+    "nav.loyalty": "برنامج الولاء",
+    "nav.section.operations": "العمليات",
+    "nav.section.stock": "المخزون والمستودع",
+    "nav.section.people": "الموظفون والعملاء",
+    "nav.section.finance": "الشؤون المالية",
+    "nav.section.system": "النظام",
     "dashboard.title": "لوحة التحكم",
     "dashboard.welcome": "مرحباً، اليمن للأعمال",
     "dashboard.total_revenue": "إجمالي الإيرادات",
@@ -311,7 +373,15 @@ const translations: Record<Language, Record<string, string>> = {
     "dashboard.monthly_overview": "نظرة عامة شهرية",
     "dashboard.top_products": "أفضل المنتجات",
     "dashboard.quick_stats": "إحصائيات سريعة",
-    // Common
+    "dashboard.quick_actions": "الإجراءات السريعة",
+    "dashboard.expense_breakdown": "تفاصيل المصروفات",
+    "dashboard.weekly_activity": "النشاط الأسبوعي",
+    "dashboard.sales_by_category": "المبيعات حسب الفئة",
+    "dashboard.kpi_overview": "مؤشرات الأداء",
+    "dashboard.total_purchase": "إجمالي المشتريات",
+    "dashboard.cash_balance": "رصيد البنك والنقد",
+    "dashboard.total_customers": "إجمالي العملاء",
+    "dashboard.stock_items": "حالة المخزون",
     "common.add": "إضافة",
     "common.edit": "تعديل",
     "common.delete": "حذف",
@@ -337,6 +407,7 @@ const translations: Record<Language, Record<string, string>> = {
     "common.pending": "معلق",
     "common.completed": "مكتمل",
     "common.cancelled": "ملغي",
+    "common.processing": "قيد المعالجة",
     "common.view_all": "عرض الكل",
     "common.phone": "الهاتف",
     "common.email": "البريد الإلكتروني",
@@ -361,12 +432,12 @@ const translations: Record<Language, Record<string, string>> = {
     "common.order": "الطلب",
     "common.language": "اللغة",
     "common.settings": "الإعدادات",
-    // Stats
+    "common.received": "تم الاستلام",
+    "common.ordered": "تم الطلب",
     "stats.this_month": "هذا الشهر",
     "stats.last_month": "الشهر الماضي",
     "stats.growth": "النمو",
     "stats.change": "التغيير",
-    // Transactions
     "transactions.title": "المعاملات",
     "transactions.add_new": "إضافة معاملة جديدة",
     "transactions.income": "دخل",
@@ -374,7 +445,6 @@ const translations: Record<Language, Record<string, string>> = {
     "transactions.transfer": "تحويل",
     "transactions.reference": "المرجع",
     "transactions.notes": "ملاحظات",
-    // Inventory
     "inventory.title": "المخزون",
     "inventory.add_product": "إضافة منتج",
     "inventory.product_name": "اسم المنتج",
@@ -384,7 +454,6 @@ const translations: Record<Language, Record<string, string>> = {
     "inventory.current_stock": "المخزون الحالي",
     "inventory.low_stock": "مخزون منخفض",
     "inventory.out_of_stock": "نفد من المخزون",
-    // HR
     "hr.title": "الموارد البشرية",
     "hr.add_employee": "إضافة موظف",
     "hr.employee_id": "رقم الموظف",
@@ -392,7 +461,6 @@ const translations: Record<Language, Record<string, string>> = {
     "hr.present": "حاضر",
     "hr.absent": "غائب",
     "hr.leave": "إجازة",
-    // Settings
     "settings.title": "الإعدادات",
     "settings.company_name": "اسم الشركة",
     "settings.business_type": "نوع العمل",
@@ -402,7 +470,6 @@ const translations: Record<Language, Record<string, string>> = {
     "settings.user_management": "إدارة المستخدمين",
     "settings.role": "الدور",
     "settings.permissions": "الصلاحيات",
-    // Company
     "company.al_yamen": "اليمن",
     "company.tagline": "نظام إدارة الأعمال",
   },
@@ -424,13 +491,10 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
     document.documentElement.setAttribute("dir", dir);
   }, [language, dir]);
 
-  const setLanguage = (lang: Language) => {
-    setLanguageState(lang);
-  };
+  const setLanguage = (lang: Language) => setLanguageState(lang);
 
-  const t = (key: string): string => {
-    return translations[language][key] || translations["en"][key] || key;
-  };
+  const t = (key: string): string =>
+    translations[language][key] || translations["en"][key] || key;
 
   return (
     <LanguageContext.Provider value={{ language, setLanguage, t, dir }}>
@@ -441,8 +505,6 @@ export function LanguageProvider({ children }: { children: ReactNode }) {
 
 export function useLanguage() {
   const context = useContext(LanguageContext);
-  if (!context) {
-    throw new Error("useLanguage must be used within LanguageProvider");
-  }
+  if (!context) throw new Error("useLanguage must be used within LanguageProvider");
   return context;
 }
